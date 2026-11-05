@@ -1,3 +1,8 @@
+> **foxnaim** · Скрипт установки сервера OpenVPN для Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora
+>
+> Готовая основа под клиентский проект. Стек: Shell.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 **New: [wireguard-install](https://github.com/Nyr/wireguard-install) is also available.**
 
 ## openvpn-install
